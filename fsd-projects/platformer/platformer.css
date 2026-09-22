@@ -11,7 +11,11 @@ canvas {
   background-color: lightblue;
   margin: 20px;
   border-radius: 15px;
-  border: 5px solid rgba(118, 0, 233, 0.375);
+  border: 5px solid #0166e6(118, 0, 233, 0.375);
+  background-image: url('https://wallpaperaccess.com/full/7294652.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 img {
